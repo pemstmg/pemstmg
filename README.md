@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Pemba Tamnag Lama. <br><br>- 🔭 I’m passionate about programming .<br>- 📚 I'm currently learning Java and Kotlin.<br>- ⚡ I am playing football every spare time i get.</p>
+<p align="left">I'm Pemba Tamang Lama. <br><br>- 🔭 I’m passionate about programming .<br>- 📚 I'm currently learning Java and Kotlin.<br>- ⚡ I am playing football every spare time i get.</p>
 
 ###
 
